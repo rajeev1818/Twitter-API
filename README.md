@@ -528,7 +528,7 @@ Created a Tweet
 <br/>
 
 Use `npm install` to install the packages.
+Use `node app.js` to start the server.
 
-**Export the express instance using the default export syntax.**
 
-**Use Common JS module syntax.**
+
